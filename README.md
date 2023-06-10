@@ -1,41 +1,47 @@
-# Astro Starter Kit: Basics
+# Amro K Saleh Portfolio
 
-```
-npm create astro@latest -- --template basics
-```
+This is my portfolio website built with [Astro](https://astro.build). It is a static site that is deployed to [Netlify](https://www.netlify.com/). You can view the live site [here](https://amroksaleh.netlify.app/).
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+## About Me
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+I love to call myself a creator. I love to create stuff such as movies, software, devices, crafts, etc.
+I take pride in my work and I am always looking to improve myself and my skills. I love learning new stuff and actually, I find it calming to learn a new skill.
 
-![basics](https://user-images.githubusercontent.com/4677417/186188965-73453154-fdec-4d6b-9c34-cb35c248ae5b.png)
+## Skills
+
+I am first an Electronic Engineer, a developer, a designer, a content creator, and a filmmaker with a focus on anything that makes me a better creator. I have experience with the following technologies:
+
+- Web (HTML, CSS, SCSS, JavaScript, React, Node.js, PHP, Laravel, WordPress, Rest API, Astro, React.js)
+- Database (MySQL, GraphQL)
+- Version Control (Git, GitHub)
+- CI/CD (GitHub Actions)
+- Design (Adobe Illustrator, Adobe Photoshop, Adobe Lightroom, Figma, Adobe XD)
+- Video Editing & VFX (Premiere Pro, After Effects, DaVinci Resolve, Shotcut)
+- SFX (Audacity, Adobe Audition, LMMS)
+- 3D (Blender, Autocad)
+- Basic Computer Skills (Office (Excel, Word, PowerPoint), Google (docs, sheets, slides, etc.))
+- Operating Systems (Windows (10,11), Linux (Ubuntu 2 Years))
+- Terminal (Zsh is the best :D)
+
+## Projects
+
+I have worked on many projects, some of them can be found on my portfolio website [Amro K Saleh Portfolio](https://amroksaleh.netlify.app/) and some of them can be found on my [GitHub](https://github.com/amroksaleh).
+
+Here are some of my other projects:
+
+- Vanish (a short film that I wrote, directed, and edited)
 
 
-## 🚀 Project Structure
+## Contact Me
 
-Inside of your Astro project, you'll see the following folders and files:
-
-```
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── components/
-│   │   └── Card.astro
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
-
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
-
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
-
-Any static assets, like images, can be placed in the `public/` directory.
+- Email: [AmroKSaleh@gmail.com](mailto:AmroKSaleh@gmail.com)
+- [Amro K Saleh YouTube Channel](https://www.youtube.com/@AmroKSaleh)
+- [Amro K Saleh Instagram](https://www.instagram.com/amroksaleh/)
+- [Amro K Saleh Twitter](https://twitter.com/amroksaleh)
+- [Amro K Saleh Facebook](https://www.facebook.com/amroksaleh)
+- [Amro K Saleh LinkedIn](https://www.linkedin.com/in/amroksaleh/)
+- [Amro K Saleh GitHub](https://github.com/amroksaleh)
+- [Amro K Saleh Portfolio](https://amroksaleh.netlify.app/)
 
 ## 🧞 Commands
 
@@ -49,7 +55,3 @@ All commands are run from the root of the project, from a terminal:
 | `npm run preview`         | Preview your build locally, before deploying     |
 | `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
 | `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
