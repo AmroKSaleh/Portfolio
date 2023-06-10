@@ -31,6 +31,25 @@ Here are some of my other projects:
 
 - Vanish (a short film that I wrote, directed, and edited)
 
+## Education
+
+I have a bachelor's degree in Electronic Engineering from Yarmouk University. I have also taken multiple courses in electronics, entrepreneurship, programming and filmmaking.
+
+## Experience
+
+- I have been working as the Creative Director at IEEE Yarmouk University Student Branch since June 2022.
+- I was the Creative Director of the ESBC (Engineering Student Branches Conference) 2022.
+- I was the Creative Director of the AIFSDG (Arab Innovation Forum on Sustainable Development Goals) 2022.
+- I have been working as The head of Creative Studios at [Almolakhas Org.](https://almolakhas.org/) since July 2020.
+- Co-founder of Jameedium Org. since Sep 2019.
+- Co-founder of Rasn Productions since Mar 2023.
+- I have been working as a freelance filmmaker since 2019.
+
+## Languages
+
+- Arabic (Native)
+- English (Fluent)
+- Turkish (Learning)
 
 ## Contact Me
 
