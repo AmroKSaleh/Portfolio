@@ -1,0 +1,23 @@
+---
+import NavElement from './NavElement.astro'
+
+// get the list of links from ./content/Header.md
+//const { Header } = await import('../content/Header.md')
+
+---
+
+<nav class="relative ">
+    <ul>
+        <!-- a loop that reads the list of links in ./content/Header.md and creates
+            the list of links on compile with NavElement -->
+            <!-- <NavElement link={link} /> -->
+    </ul>
+</nav>
+
+<style>
+    nav {
+        margin: auto;
+		padding: 1.5rem;
+		max-width: 60ch;
+    }
+</style>
